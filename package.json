@@ -9,8 +9,8 @@
     "start": "tsx start src/server.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jhonatan Oliveira",
+  "license": "MIT",
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
